@@ -62,3 +62,6 @@ chore: update dependencies to latest stable versions
 
 ## References
 [Conventional Commits](https://www.conventionalcommits.org/)
+
+## Useful Extensions in VSCode
+[Conventional Commits by vivaxy](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits)
